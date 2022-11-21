@@ -1,0 +1,37 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin:auto;
+    padding: 20px;
+    color: azure;
+    backdrop-filter: blur(1px);
+    background-image : url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTg2D374ZS0hDySmZPjyWTmXaMHM-h-r7ts552Pdeh2g3zrKISMShBoKb2OgbrqZ-WwAhw&usqp=CAU");
+}
+.result{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue;
+}
+input{
+    font-family: Arial, Helvetica, sans-serif;
+}
+footer{
+    color: rgb(229, 181, 47);
+    font-size: large;
+    bottom: 0;
+    padding-top: 5%;
+    text-align: left;
+}
+.button button{
+    cursor: pointer;
+}
+.maindiv{
+    
+    padding: 20px;
+    margin: auto;
+    color: black;
+    width: 600px;
+    height: 300px;
+    border-radius: 25px;
+    background-color: white;
+    text-size-adjust: 20px;
+}
